@@ -95,3 +95,9 @@ body {
     grid-column: 2 / -1;
   }
 }
+
+@media (max-width: 375px) {
+  .subtitle {
+  grid-column: 1 / 4;
+}
+}
