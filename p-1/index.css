@@ -74,6 +74,13 @@ body {
   z-index: 1;
 }
 
+.subtitle span {
+  display: block;
+  font-family: initial;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
 .img-container {
   width: 100%;
   background-image: url('./img/building.jpg');
