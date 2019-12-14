@@ -84,6 +84,7 @@ body {
 .img-container {
   width: 100%;
   background-image: url('./img/building.jpg');
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   grid-column: 2 / 7;
